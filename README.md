@@ -1,1 +1,1 @@
-my new repository
+My new repository.
